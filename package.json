@@ -12,13 +12,13 @@
       "url": "https://github.com/kcbanner/connect-mongo/issues"
   },
   "dependencies": {
-    "mongodb": "1.2.x"
+    "mongodb": "~2.2.11"
   },
   "directories": {
       "lib":"./lib"
   },
   "devDependencies": {
-    "mocha": "1.x",
+    "mocha": "^3.2.0",
     "connect": ">= 1.x",
     "mongoose": ">= 2.6.x"
   },
